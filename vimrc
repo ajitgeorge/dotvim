@@ -10,7 +10,7 @@ call neobundle#begin(expand('~/.vim/bundle/'))
 NeoBundleFetch 'Shougo/neobundle.vim'
 
 NeoBundle     'scrooloose/nerdcommenter'
-"NeoBundle     'scrooloose/syntastic'
+NeoBundle     'scrooloose/syntastic'
 NeoBundle     'bling/vim-airline'
 "NeoBundle     'altercation/vim-colors-solarized'
 NeoBundle     'Lokaltog/vim-easymotion'
